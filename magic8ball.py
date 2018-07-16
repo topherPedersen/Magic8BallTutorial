@@ -1,7 +1,5 @@
 # https://bit.ly/2KZqTo8
 
-# https://bit.ly/2KZqTo8
-
 import random
 
 print("Welcome to Magic 8 Ball")
