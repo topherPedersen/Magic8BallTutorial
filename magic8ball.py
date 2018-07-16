@@ -78,7 +78,7 @@ while keepPlaying == True:
     print(fortune[19])
     
   userResponse = raw_input("Would you like to continue playing? (answer 'y' for yes, 'n' for no)")
-  if userResponse == "y" or userResponse == "Y" or userResponse == "yes" or userResponse =="YES" or userResponse == "Yes":
+  if userResponse == "y":
     keepPlaying = True
   else:
     keepPlaying = False
